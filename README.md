@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Viber.
+- 👋 Hi, I’m Chetanya.
 - 👀 I’m interested in coding and writing in Eng language.
 - 🌱 I’m currently learning Python language.
 - 📫 You can reach me on Instagram and Twitter - @viber_is_here & @viberishere respectively.
